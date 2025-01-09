@@ -1,9 +1,9 @@
 # **PSL Community Connect Application**
----
+
 
 
 ## **Short Overview**  
----
+
 PSL Community Connect Application is a robust platform that enables:  
 - User authentication and profile management.  
 - Active participation in event creation and engagement.  
@@ -13,7 +13,7 @@ The application includes a personalized dashboard to monitor user interests and 
 
 
 ## **Features**  
----
+
 
 - ✅ **User Authentication**  
   Users can sign up, log in, and manage their profiles.  
@@ -30,7 +30,7 @@ The application includes a personalized dashboard to monitor user interests and 
 
 
 ## **Technology Used** 
----
+
 
 ### **Frontend**  
 - React  
@@ -53,5 +53,5 @@ The application includes a personalized dashboard to monitor user interests and 
 - GitHub  
 - Figma  
 
----
+
 
