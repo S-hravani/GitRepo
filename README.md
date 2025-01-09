@@ -1,6 +1,6 @@
 # **PSL Community Connect Application**
 
-
+---
 
 
 ## **Short Overview**  
@@ -9,6 +9,7 @@ PSL Community Connect Application is a robust platform that enables:
 - Active participation in event creation and engagement.  
 The application includes a personalized dashboard to monitor user interests and events, ensuring smooth user interaction.
 
+---
 
 
 ## **Features**  
